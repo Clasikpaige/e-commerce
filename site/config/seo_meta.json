@@ -3,7 +3,7 @@
   "titleTemplate": "%s - 24luxuri ",
   "description": "24luxuri Commerce - https://www.nextjs.org/commerce",
   "openGraph": {
-    "title": "24luxuri | Powered by Next.js Commerce",
+    "title": "24luxuri | Created By Paige H",
     "description": "Next.js Commerce - https://www.nextjs.org/commerce",
     "type": "website",
     "url": "https://nextjs.org/commerce",
@@ -13,7 +13,7 @@
         "url": "/card.png",
         "width": "800",
         "height": "600",
-        "alt": "Next.js Commerce"
+        "alt": "24luxuri"
       }
     ]
   },
