@@ -1,12 +1,12 @@
 {
-  "title": "24 Luxuri |created  by Paige H",
-  "titleTemplate": "%s - 24luxuri ",
-  "description": "24luxuri Commerce - https://www.nextjs.org/commerce",
+  "title": "24 Luxuri |created  by Paige",
+  "titleTemplate": "%s - 24luxuri",
+  "description": "24luxuri Commerce - http://e-commerce-clasikpaige.vercel.app/",
   "openGraph": {
     "title": "24luxuri | Created By Paige H",
-    "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+    "description": "Next.js Commerce - http://e-commerce-clasikpaige.vercel.app/",
     "type": "website",
-    "url": "https://nextjs.org/commerce",
+    "url": "http://e-commerce-clasikpaige.vercel.app/",
     "site_name": "24luxuri",
     "images": [
       {
