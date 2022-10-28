@@ -79,7 +79,7 @@ const Footer: FC<Props> = ({ className, pages }) => {
               target="_blank"
               className="text-primary"
             >
-              <Vercel
+              <Paige 
                 className="inline-block h-6 ml-3 text-primary"
                 alt="Vercel.com Logo"
               />
